@@ -1,2 +1,2 @@
 # ml-bases
-Some machine learning projects
+Some Machine Learning projects
